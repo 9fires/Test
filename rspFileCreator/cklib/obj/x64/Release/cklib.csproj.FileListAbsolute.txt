@@ -1,7 +1,0 @@
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\net2\bin\x64\Release\cklib.dll.config
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\net2\bin\x64\Release\cklib.XML
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\net2\bin\x64\Release\cklib.dll
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\net2\bin\x64\Release\cklib.pdb
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\obj\x64\Release\cklib.csprojResolveAssemblyReference.cache
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\obj\x64\Release\cklib.dll
-D:\Users\hk.DEV2\Documents\Visual Studio 2013\Projects\CoreBiz\cklib\obj\x64\Release\cklib.pdb
