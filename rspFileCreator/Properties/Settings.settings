@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="rspFileCreator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBConnectString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DTDB; Initial Catalog=DTRDB; Persist Security Info=True; User ID=faxdbuser; Password=faxdbuser; Connection Timeout=120</Value>
+    </Setting>
+    <Setting Name="DBDeadLockRetryCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">99</Value>
+    </Setting>
+    <Setting Name="DBDeadLockRetryInterval" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="DBCommandTimeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
