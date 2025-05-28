@@ -1,0 +1,8 @@
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\bin\Debug\rspFileCreator.exe.config
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\bin\Debug\rspFileCreator.exe
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\bin\Debug\rspFileCreator.pdb
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\obj\Debug\rspFileCreator.csproj.AssemblyReference.cache
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\obj\Debug\rspFileCreator.csproj.CoreCompileInputs.cache
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\obj\Debug\rspFileCreator.exe
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\obj\Debug\rspFileCreator.pdb
+C:\AAAAAAAAAAA\rspFileCreator\rspFileCreator\bin\Debug\App.config
