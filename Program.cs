@@ -12,7 +12,7 @@ namespace rspFileCreator
         static void Main(string[] args)
         {
             DataTable dt = GetMaxFaxIdentifier(args[1]);
-            //int cnt = dt.Rows.Count;
+            //int cnt = dt.Rows.Count; test
             foreach(DataRow dr in dt.Rows)
             {
                 StringBuilder stb = new StringBuilder();

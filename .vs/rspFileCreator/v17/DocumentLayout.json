@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\AAAAAAAAAAA\\rspFileCreator\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\github\\rspFileCreator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{592D1922-9C64-43DE-B37B-2FAC3F0938D3}|rspFileCreator.csproj|c:\\aaaaaaaaaaa\\rspfilecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{592D1922-9C64-43DE-B37B-2FAC3F0938D3}|rspFileCreator.csproj|c:\\users\\administrator\\github\\rspfilecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{592D1922-9C64-43DE-B37B-2FAC3F0938D3}|rspFileCreator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{592D1922-9C64-43DE-B37B-2FAC3F0938D3}|rspFileCreator.csproj|C:\\AAAAAAAAAAA\\rspFileCreator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{592D1922-9C64-43DE-B37B-2FAC3F0938D3}|rspFileCreator.csproj|C:\\Users\\Administrator\\github\\rspFileCreator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{592D1922-9C64-43DE-B37B-2FAC3F0938D3}|rspFileCreator.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\AAAAAAAAAAA\\rspFileCreator\\App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\github\\rspFileCreator\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\AAAAAAAAAAA\\rspFileCreator\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\github\\rspFileCreator\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\AAAAAAAAAAA\\rspFileCreator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\github\\rspFileCreator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\AAAAAAAAAAA\\rspFileCreator\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\github\\rspFileCreator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBEAAAAQAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T03:02:41.866Z",
               "EditorCaption": ""
